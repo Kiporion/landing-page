@@ -2,17 +2,28 @@
     font-family:Arial, Helvetica, sans-serif;
 }
 
+body{
+    margin:auto;
+}
+
 .header{
     background-color: #1F2937;
     padding:12px;
+    display: flex;
+    flex-direction: column;
+    margin:0px 0px 0px 0px;
 }
+    /* Navbar Start*/
 .navbar{
     display:flex;
+    align-items: center;
 }
 
 .logo{
     font-size: 24px;
     color: #f9faf8;
+    flex:1;
+    margin-left: 12px;
 }
 
 .right-links{
@@ -33,4 +44,50 @@ ul{
 a{
     color: #E5E7EB;
     text-decoration: none;
+}
+
+    /* Navbar End*/
+
+.hero{
+    display:flex;
+}
+
+.header-left{
+    flex:1;
+}
+
+.header-main{
+    font-size: 48px;
+    font-weight: 800;
+    color: #f9faf8;
+    margin-bottom: 0px;
+}
+
+.header-secondary{
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+/* General Button setup */
+
+button{
+    background-color: #3882F6;
+    height: 35px;
+    width:125px;
+    border-radius: 10px;
+    color: #E5E7EB;
+    font-weight: bold;
+    font-size: 18px;
+}
+button:hover{
+    cursor: pointer;
+}
+.header-btn{
+    border-width: 0;
+}
+
+.header-img{
+    width:600px;
+    height: auto;
+    flex:1;
 }
