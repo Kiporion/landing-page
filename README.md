@@ -2,7 +2,7 @@
 
 A simple Landing Page project created by following The Odin's Project example.
 
-Images found on pixabay:
+Images used in this project:
 
 ["Northern Lights Aurora Night"](https://pixabay.com/photos/northern-lights-aurora-night-7677986/) by [suju-foto](https://pixabay.com/users/suju-foto-165106/)
 
