@@ -1,6 +1,6 @@
 # landing-page
 
-A simple Landing Page project created by following The Odin's Project example.
+A simple Landing Page project created by following The Odin Project's example.
 
 Images used in this project:
 
