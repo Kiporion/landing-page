@@ -13,7 +13,7 @@ body{
     flex-direction: column;
     margin:0px 0px 0px 0px;
 }
-    /* Navbar Start*/
+    /* Navbar */
 .navbar{
     display:flex;
     align-items: center;
@@ -46,7 +46,7 @@ a{
     text-decoration: none;
 }
 
-    /* Navbar End*/
+    /* Header */
 
 .hero{
     display:flex;
@@ -97,9 +97,11 @@ button:hover{
 }
 
 .header-img{
-    width:400px;
+    margin-top: 8px;
+    width:450px;
     height: auto;
     flex:1;
+    border-radius: 8px;
 }
     /* Information */
 
