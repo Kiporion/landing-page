@@ -116,6 +116,7 @@ button:hover{
  }
  .info-gallery{
     display: flex;
+    width: 80%;
  }
  .container{
     margin:10px;
@@ -158,3 +159,5 @@ button:hover{
     text-align: right;
     margin-top: -20px;
 }
+
+/* Call to Action */
